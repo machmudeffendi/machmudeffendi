@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Vue & Angular**
 
-- 👨‍💻 All of my projects are available at [machmudeffendi.github.io](machmudeffendi.github.io)
+- 👨‍💻 All of my projects are available at [https://machmudeffendi.github.io](https://machmudeffendi.github.io)
 
 - 💬 Ask me about **react, express, spring-boot, gin-gonic, Laravel, Codeigniter**
 
