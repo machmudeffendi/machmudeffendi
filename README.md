@@ -20,4 +20,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=machmudeffendi&show_icons=true&locale=en&layout=compact" alt="machmudeffendi" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=machmudeffendi&show_icons=true&locale=en" alt="machmudeffendi" /></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=machmudeffendi&" alt="machmudeffendi" /></p>
