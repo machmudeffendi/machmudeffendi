@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://machmudeffendi.github.io](https://machmudeffendi.github.io)
 
-- 💬 Ask me about **react, express, spring-boot, gin-gonic, Laravel, Codeigniter**
+- 💬 Ask me about **react, express, spring-boot, gin-gonic, laravel, codeigniter**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
