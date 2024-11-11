@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Machmud Effendi</h1>
-<h3 align="center">A Software Engineer</h3>
+<h3 align="center">Data Science Student | Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=machmudeffendi&label=Profile%20views&color=0e75b6&style=flat" alt="machmudeffendi" /> </p>
 
-- 🌱 I’m currently learning **Technical Architecture**
+- 🌱 I’m currently learning **AI/ML and Blockchain Technologies**
 
 - 👨‍💻 All of my projects are available at [https://machmudeffendi.github.io](https://machmudeffendi.github.io)
 
-- 💬 Ask me about **Software Development**
+- 💬 Ask me about **Software Engineering**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
